@@ -1,0 +1,29 @@
+/* temporary css */
+body {
+    border: 2px solid red;
+    background-color: orange;
+}
+
+.landingPageLeft {
+    width: 150px;
+    border: 2px solid red;
+}
+
+.mainContent {
+    margin-top: 60px;
+}
+
+/* .landingPageRight {
+    width: 150px;
+    border: 2px solid red;
+} */
+
+.landingPageHeader {
+    height: 50px;
+    border: 2px solid red;
+}
+
+/* .landingPageFooter {
+    height: 50px;
+    border: 2px solid red;
+} */
